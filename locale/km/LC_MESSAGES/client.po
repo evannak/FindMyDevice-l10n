@@ -14,177 +14,177 @@ msgstr ""
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "ឧបករណ៍​របស់អ្នក​កំពុង​លិប​ចោល។"
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr ""
+msgstr "មាន​កំហុស​កើត​ឡើង​ខណៈ​កំពុង​ព្យាយាម​លុប​ឧបករណ៍​របស់​អ្នក។"
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "ឧបករណ៍​របស់​ត្រូវ​ចាក់​សោរ។"
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "មាន​កំហុស​កើត​ឡើង​ខណៈ​កំពុង​ព្យាយាម​ចាក់សោរ​ឧបករណ៍​របស់​អ្នក។"
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "ឧបករណ៍​របស់​អ្នក​កំពុង​រោទិ៍។"
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "មាន​កំហុស​កើត​ឡើង​ខណៈ​កំពុង​ព្យាយាម​រោទិ៍​ឧបករណ៍​របស់​អ្នក។"
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
+msgstr "មាន​កំហុស​ខណៈ​កំពុង​ព្យាយាម​រក​ទីតាំង​ឧបករណ៍​របស់​អ្នក។ ព្យាយាម​ម្ដង​ទៀត..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "រក​ទីតាំង​ឧបករណ៍​របស់​អ្នក។"
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "ម៉ឺនុយ"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "ចេញ"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "កំពុង​ភ្ជាប់​ទៅ​ឧបករណ៍..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "រោទិ៍"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "ចាក់សោរ"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "លុប"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "សូម​អភ័យ​ទោស អ្នក​មិន​មាន​ឧបករណ៍​ទេ។"
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "បើក​កម្មវិធី​រក​ឧបករណ៍​របស់​ខ្ញុំ​នៅ​លើ​ឧបករណ៍ Firefox OS របស់​អ្នក។"
 
 #: app/scripts/templates/erase.html:1
 #: app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 #: app/scripts/templates/erase.html:2
 #: app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "លុប​ឧបករណ៍"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "ការ​លុប​ឧបករណ៍​របស់​អ្នក​នឹង៖"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "លុប​ទំនាក់ទំនង មេឌៀ សារ និង​កម្មវិធី​ដែល​បាន​ដំឡើង​របស់​អ្នក"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "ស្ដារ​ឧបករណ៍​របស់​អ្នក​ការ​កំណត់​រោងចក្រ​របស់​វា"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "បិទ​កម្មវិធី​រក​ឧបករណ៍​របស់​ខ្ញុំ"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "ការ​អះអាង"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ឧបករណ៍​របស់​អ្នក​មែន​ឬ?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "បោះបង់"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "ចាកសោរ​ឧបករណ៍"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "ជំហាន​ទី ១"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "ជំហាន​ទី ២"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "បញ្ចូល​ចំណាំ​ដើម្បី​បង្ហាញ​នៅ​លើ​ឧបករណ៍​របស់​អ្នក៖"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "ចំណាំ (ស្រេច​ចិត្ត)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "បន្ទាប់"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "ថយ​ក្រោយ"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "បញ្ចូល​កូដ​សម្ងាត់​ដើម្បី​ចាក់សោរ​ឧបករណ៍​របស់​អ្នក៖"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "ទាមទារ​កូដ​សម្ងាត់។"
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "កូដ​សម្ងាត់​ត្រូវ​តែ ៤ ខ្ទង់។"
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "បញ្ចូល​កូដ​សម្ងាត់​ម្ដង​ទៀត៖"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "កូដ​សម្ងាត់​ត្រូវ​តែ​ដូច​គ្នា។"
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid "Once your device is locked, you will not be able to change this code again."
-msgstr ""
+msgstr "នៅ​ពេល​ដែល​ឧបករណ៍​របស់​អ្នក​ត្រូវ​បាន​ចាក់សោរ អ្នក​នឹង​មិន​អាច​ផ្លាស់ប្ដូរ​កូដ​នេះ​ម្ដង​ទៀត​បាន​ទេ។"
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "រោទិ៍​ឧបករណ៍"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "ចាក់​សំឡេង​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ដើម្បី​ជួយ​ឲ្យ​អ្នក​អាច​រក​វា​ឃើញ។"
